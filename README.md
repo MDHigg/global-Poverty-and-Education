@@ -5,6 +5,8 @@ Data (and associated metadata) are provided in the zip files. Data are provided 
 https://data.worldbank.org/indicator?tab=all
 And used under license (https://datacatalog.worldbank.org/public-licenses)
 
+In some instances where data was not avaiable from The World Bank estimations have been made to accurately estimate the values. The original data from the World Bank is provided, and all methods for estimating values is present in the repository.
+
 # 
 This analysis is the work of the author, and are not affiliated with The World Bank, or any other sources cited.
 
