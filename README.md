@@ -5,7 +5,7 @@ Data (and associated metadata) are provided in the zip files. Data are provided 
 https://data.worldbank.org/indicator?tab=all
 
 # 
-These analysis are all the work of the author, and are not affiliated with The World Bank, or any tother sources cited.
+This analysis is the work of the author, and are not affiliated with The World Bank, or any other sources cited.
 
 Presentation and further analysis can be seen at
 https://public.tableau.com/app/profile/michael.higgins7794/viz/GlobalPovertyandEducation/EducationandPoverty
